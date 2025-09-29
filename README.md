@@ -1,5 +1,9 @@
+![logo](https://github.com/Alishasami645/Alishasami645/blob/main/Profile%20image.png)
 <h1 align="center">Hi 👋, I'm Alisha Sami</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/65d4d83c-5552-4ca4-8bd2-f3a70269b1ce" />
+"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
