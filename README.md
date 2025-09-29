@@ -1,4 +1,4 @@
-![logo](https://github.com/Alishasami645/Alishasami645/blob/main/Profile%20image.png)
+![logo](https://github.com/Alishasami645/Alishasami645/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Alisha Sami</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
